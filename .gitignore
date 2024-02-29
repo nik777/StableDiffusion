@@ -13,12 +13,14 @@ develop-eggs/
 dist/
 downloads/
 eggs/
+trab/
 .eggs/
 lib/
 lib64/
 parts/
 sdist/
 var/
+org/
 wheels/
 share/python-wheels/
 *.egg-info/
@@ -158,3 +160,13 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+data/dark_fantasy_knight_version_10_by_pm_artistic_dfnl61q-pre.jpg
+data/merges.txt
+data/v1-5-pruned-emaonly.ckpt
+data/v1-5-pruned.ckpt
+data/vocab.json
+=11.5.0
+.vscode/settings.json
+notebooks/map_weights.ipnb
+notebooks/mepping.txt
+notebooks/wb1.ipynb
